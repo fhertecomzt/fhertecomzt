@@ -1,6 +1,5 @@
-# ![https://mouredev.com](https://amesistemaweb.free.nf/imgs/logoame.png) Hola, mi nombre es Fernando Renteria 👋
-### Freelance fullstack iOS & Android engineer
-### Hi there 👋
+Hola, mi nombre es Fernando Renteria 👋
+
 
 <!--
 **fhertecomzt/fhertecomzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
